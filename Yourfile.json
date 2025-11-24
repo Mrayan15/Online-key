@@ -16,5 +16,11 @@
         "key": "MrAyanVip",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54794ca3b6469395",
+        "key": "MrShariq",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
